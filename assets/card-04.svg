@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150" role="img" aria-label="Three connected steps in an automated pipeline with a feedback loop">
+  <rect x="0.5" y="0.5" width="479" height="149" rx="12" fill="#1b2327" stroke="#2f3a40"/>
+  <text x="22" y="30" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#7ecfc8">AUTOMATION</text>
+  <text x="458" y="30" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12" fill="#7ecfc8" opacity="0.8">04</text>
+  <g fill="none" stroke="#7ecfc8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="95" y="52" width="56" height="48" rx="9"/>
+    <rect x="212" y="52" width="56" height="48" rx="9"/>
+    <rect x="329" y="52" width="56" height="48" rx="9"/>
+    <line x1="157" y1="76" x2="206" y2="76"/><polyline points="198,70 206,76 198,82"/>
+    <line x1="274" y1="76" x2="323" y2="76"/><polyline points="315,70 323,76 315,82"/>
+    <path d="M357 106 V126 H123 V106" stroke-dasharray="5 4"/>
+    <polyline points="117,114 123,106 129,114"/>
+    <circle cx="123" cy="76" r="6"/>
+    <line x1="232" y1="76" x2="248" y2="76"/><line x1="240" y1="68" x2="240" y2="84"/>
+    <polyline points="347,76 355,84 369,68"/>
+  </g>
+</svg>
