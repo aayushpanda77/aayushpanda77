@@ -1,17 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Ayush Panda — AI and data. Open to internships.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="360" viewBox="0 0 1120 360" role="img" aria-label="Ayush Panda. Models that learn. Apps that ship. Machine learning, data science and apps people can use. Open to AI and data internships.">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#1a0b2e"/>
-    </linearGradient>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#a855f7"/>
-    </linearGradient>
+    <clipPath id="card"><rect width="1120" height="360" rx="18"/></clipPath>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.03"/>
+    </radialGradient>
   </defs>
-  <rect width="900" height="260" rx="14" fill="url(#bg)"/>
-  <rect x="0" y="236" width="900" height="4" fill="url(#neon)"/>
-  <text x="48" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#f1f5f9">Ayush Panda</text>
-  <text x="48" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="url(#neon)">AI. Data. Things that work.</text>
-  <text x="48" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#94a3b8">Python, data science and machine learning · Open to internships</text>
+  <rect x="0.5" y="0.5" width="1119" height="359" rx="18" fill="#0f141a" stroke="#222c35"/>
+  <g clip-path="url(#card)">
+    <g stroke="#1d2832" stroke-width="1"><line x1="740" y1="0" x2="740" y2="360"/><line x1="780" y1="0" x2="780" y2="360"/><line x1="820" y1="0" x2="820" y2="360"/><line x1="860" y1="0" x2="860" y2="360"/><line x1="900" y1="0" x2="900" y2="360"/><line x1="940" y1="0" x2="940" y2="360"/><line x1="980" y1="0" x2="980" y2="360"/><line x1="1020" y1="0" x2="1020" y2="360"/><line x1="1060" y1="0" x2="1060" y2="360"/><line x1="1100" y1="0" x2="1100" y2="360"/><line x1="720" y1="0" x2="1120" y2="0"/><line x1="720" y1="40" x2="1120" y2="40"/><line x1="720" y1="80" x2="1120" y2="80"/><line x1="720" y1="120" x2="1120" y2="120"/><line x1="720" y1="160" x2="1120" y2="160"/><line x1="720" y1="200" x2="1120" y2="200"/><line x1="720" y1="240" x2="1120" y2="240"/><line x1="720" y1="280" x2="1120" y2="280"/><line x1="720" y1="320" x2="1120" y2="320"/><line x1="720" y1="360" x2="1120" y2="360"/></g>
+    <circle cx="925" cy="190" r="165" fill="url(#glow)"/>
+  </g>
+
+  <g stroke="#22d3ee" stroke-width="1.4" opacity="0.38"><line x1="830" y1="130" x2="925" y2="100"/><line x1="830" y1="130" x2="925" y2="160"/><line x1="830" y1="130" x2="925" y2="220"/><line x1="830" y1="130" x2="925" y2="280"/><line x1="830" y1="190" x2="925" y2="100"/><line x1="830" y1="190" x2="925" y2="160"/><line x1="830" y1="190" x2="925" y2="220"/><line x1="830" y1="190" x2="925" y2="280"/><line x1="830" y1="250" x2="925" y2="100"/><line x1="830" y1="250" x2="925" y2="160"/><line x1="830" y1="250" x2="925" y2="220"/><line x1="830" y1="250" x2="925" y2="280"/><line x1="925" y1="100" x2="1020" y2="150"/><line x1="925" y1="100" x2="1020" y2="230"/><line x1="925" y1="160" x2="1020" y2="150"/><line x1="925" y1="160" x2="1020" y2="230"/><line x1="925" y1="220" x2="1020" y2="150"/><line x1="925" y1="220" x2="1020" y2="230"/><line x1="925" y1="280" x2="1020" y2="150"/><line x1="925" y1="280" x2="1020" y2="230"/></g>
+  <g><circle cx="830" cy="130" r="9" fill="#0f141a" stroke="#22d3ee" stroke-width="2"/><circle cx="830" cy="190" r="9" fill="#22d3ee" stroke="#22d3ee" stroke-width="2"/><circle cx="830" cy="250" r="9" fill="#0f141a" stroke="#22d3ee" stroke-width="2"/><circle cx="925" cy="100" r="9" fill="#0f141a" stroke="#22d3ee" stroke-width="2"/><circle cx="925" cy="160" r="9" fill="#0f141a" stroke="#22d3ee" stroke-width="2"/><circle cx="925" cy="220" r="9" fill="#22d3ee" stroke="#22d3ee" stroke-width="2"/><circle cx="925" cy="280" r="9" fill="#0f141a" stroke="#22d3ee" stroke-width="2"/><circle cx="1020" cy="150" r="9" fill="#22d3ee" stroke="#22d3ee" stroke-width="2"/><circle cx="1020" cy="230" r="11" fill="#a855f7" stroke="#a855f7" stroke-width="2"/></g>
+
+  <rect x="948" y="34" width="136" height="44" rx="10" fill="#22d3ee"/>
+  <text x="1016" y="63" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="19" font-weight="700" fill="#0b1217">predict()</text>
+
+  <rect x="738" y="296" width="196" height="42" rx="9" fill="#151d24" stroke="#2a3640"/>
+  <text x="836" y="322" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#cbd5e1">data → insight</text>
+
+  <rect x="46" y="48" width="26" height="4" rx="2" fill="#22d3ee"/>
+  <text x="86" y="56" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" letter-spacing="3" fill="#8b98a5">AI + DATA BUILDER / INDIA</text>
+
+  <text x="44" y="162" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" letter-spacing="-3" fill="#f4f5ef">Ayush Panda<tspan fill="#22d3ee">.</tspan></text>
+  <text x="48" y="216" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f4f5ef">Models that learn. Apps that ship.</text>
+  <text x="48" y="256" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#8b98a5">Machine learning, data science, and apps people can use.</text>
+
+  <rect x="46" y="284" width="352" height="46" rx="23" fill="#151d24" stroke="#2a3640"/>
+  <circle cx="72" cy="307" r="6" fill="#22d3ee"/>
+  <text x="92" y="312" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.5" fill="#cbd5e1">OPEN TO AI + DATA INTERNSHIPS</text>
 </svg>
