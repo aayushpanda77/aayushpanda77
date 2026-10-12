@@ -2,7 +2,7 @@
 
 ![Ayush Panda — AI. Data. Things that work. Python, data science and machine learning. Open to internships.](./assets/profile-hero.svg)
 
-[![Explore my portfolio](./assets/link-portfolio.svg)](https://ayush-panda.netlify.app/) [![Email me](./assets/link-email.svg)](mailto:aayushpanda77@gmail.com) [![Try my demo](./assets/link-demo.svg)](https://github.com/aayushpanda77/student-performance-predictor#readme)
+[![Explore my portfolio](./assets/link-portfolio.svg)]((https://ayushpanda-portfolio.netlify.app)) [![Email me](./assets/link-email.svg)](mailto:aayushpanda77@gmail.com) [![Try my demo](./assets/link-demo.svg)](https://github.com/aayushpanda77/student-performance-predictor#readme)
 
 </div>
 
